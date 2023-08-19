@@ -1,14 +1,14 @@
 [
   {
-    "Author": "NightmareXIV, RedAsteroid(机翻)",
-    "Name": "TextAdvance",
+    "Author": "daemitus, RedAsteroid(翻译)",
+    "Name": "Yes Already",
     "InternalName": "TextAdvance",
-    "Punchline": "自动跳过对话框以及确认跳过过场动画，对副职升级十分有效。需要在每次登陆时输入 /at 命令才能启用。\n(在线安装 Only)",
+    "Punchline": "在您指定的各种对话中点击 \"是\"。\n(在线安装 Only)",
     "AssemblyVersion": "3.0.0.8",
-    "Description": "",
+    "Description": "厌倦了在天幕魔导城中点击\"是\"吗？不能忍受在副本中使用钥匙？那么我有一个插件给你! Yes Already是专门为点击所有你已经习惯了的烦人的对话框而设计的。只要在对话框输入文字，你就不会再看到它了! 它还可以与/正则表达式/一起使用，并且有几个内置的模块，用于那些不完全是 \"是\"/\"否 \"的提示，但表现得很像（如\"道具分解\"）的对话框。",
     "ApplicableVersion": "any",
     "DalamudApiLevel": 8,
-    "IconUrl": "https://raw.githubusercontent.com/Eternita-S/MyDalamudPlugins/main/TextAdvance/icon.png",
+    "IconUrl": "https://github.com/daemitus/YesAlready/raw/master/res/icon.png",
     "DownloadLinkInstall": "https://github.com/KadoMaws/test3/raw/main/02.zip",
     "DownloadLinkUpdate": "https://github.com/KadoMaws/test3/raw/main/02.zip",
   }
