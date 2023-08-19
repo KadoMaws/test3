@@ -8,7 +8,7 @@
     "Description": "",
     "ApplicableVersion": "any",
     "DalamudApiLevel": 8,
-    "IconUrl": "",
+    "IconUrl": "https://raw.githubusercontent.com/Eternita-S/MyDalamudPlugins/main/TextAdvance/icon.png",
     "DownloadLinkInstall": "https://github.com/KadoMaws/test3/raw/main/02.zip",
     "DownloadLinkUpdate": "https://github.com/KadoMaws/test3/raw/main/02.zip",
   }
