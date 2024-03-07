@@ -1,15 +1,15 @@
 [
   {
-    "Author": "Jukka, RedAsteroid(本地化)",
-    "Name": "NecroLens",
-    "InternalName": "NecroLens",
-    "Punchline": "一个真正的死灵术士总是对深层迷宫了如指掌…… 而其他人只是在使用高科技！\n(在线安装 Only)",
-    "AssemblyVersion": "1.0.4.0",
-    "Description": "深层迷宫小帮手，提供怪物的引战、视觉范围以及其他一切的雷达。\n更正部分错误的引战范围显示。\nCN6.45h 闲鱼小店倒卖死妈，买的也死妈。\n送钱给倒狗买仓库链接的，你是什么品种的脑残？",
+    "Author": "NightmareXIV, RedAsteroid(汉化)",
+    "Name": "TextAdvance",
+    "InternalName": "TextAdvance",
+    "Punchline": "速通任务的辅助工具，自动跳过对话框以及确认跳过过场动画。\n您需要安装 SplatoonX 插件以使用全部功能。\n(在线安装 Only)",
+    "AssemblyVersion": "3.2.0.3",
+    "Description": "",
     "ApplicableVersion": "any",
-    "DalamudApiLevel": 8,
-    "IconUrl": "https://github.com/Jukkales/NecroLens/raw/main/icon.png",
+    "DalamudApiLevel": 9,
+    "IconUrl": "https://raw.githubusercontent.com/Eternita-S/MyDalamudPlugins/main/TextAdvance/icon.png",
     "DownloadLinkInstall": "https://github.com/KadoMaws/test3/raw/main/04.zip",
     "DownloadLinkUpdate": "https://github.com/KadoMaws/test3/raw/main/04.zip",
-  }
+  },
  ]
