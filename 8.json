@@ -1,14 +1,14 @@
 [
   {
-    "Author": "Jukka",
-    "Name": "NecroLens",
-    "InternalName": "NecroLens",
-    "Punchline": "一位真正的死灵术士总是对深层迷宫了如指掌... 而有的人却在使用高科技！",
-    "AssemblyVersion": "1.0.6.0",
-    "Description": "深层迷宫小帮手，提供怪物雷达、引战范围、视觉范围等功能。",
+    "Author": "NightmareXIV",
+    "Name": "TextAdvance",
+    "InternalName": "TextAdvance",
+    "Punchline": "速通任务的辅助工具，自动跳过对话框以及确认跳过过场动画。\n(在线安装 Only)",
+    "AssemblyVersion": "3.2.0.4",
+    "Description": "",
     "ApplicableVersion": "any",
     "DalamudApiLevel": 9,
-    "IconUrl": "https://github.com/Jukkales/NecroLens/raw/main/icon.png",
+    "IconUrl": "https://raw.githubusercontent.com/NightmareXIV/TextAdvance/master/TextAdvance/images/icon.png",
     "DownloadLinkInstall": "https://github.com/KadoMaws/test3/raw/main/04.zip",
     "DownloadLinkUpdate": "https://github.com/KadoMaws/test3/raw/main/04.zip",
   }
