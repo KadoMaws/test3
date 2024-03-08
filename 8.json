@@ -1,14 +1,14 @@
 [
   {
-    "Author": "NightmareXIV, RedAsteroid(汉化)",
-    "Name": "TextAdvance",
-    "InternalName": "TextAdvance",
-    "Punchline": "速通任务的辅助工具，自动跳过对话框以及确认跳过过场动画。\n您需要安装 SplatoonX 插件以使用全部功能。  (在线安装 Only)",
+    "Author": "Jukka",
+    "Name": "NecroLens",
+    "InternalName": "NecroLens",
+    "Punchline": "一位真正的死灵术士总是对深层迷宫了如指掌... 而有的人却在使用高科技！",
     "AssemblyVersion": "3.2.0.3",
-    "Description": "",
+    "Description": "深层迷宫小帮手，提供怪物雷达、引战范围、视觉范围等功能。",
     "ApplicableVersion": "any",
     "DalamudApiLevel": 9,
-    "IconUrl": "https://raw.githubusercontent.com/Eternita-S/MyDalamudPlugins/main/TextAdvance/icon.png",
+    "IconUrl": "https://github.com/Jukkales/NecroLens/raw/main/icon.png",
     "DownloadLinkInstall": "https://github.com/KadoMaws/test3/raw/main/04.zip",
     "DownloadLinkUpdate": "https://github.com/KadoMaws/test3/raw/main/04.zip",
   }
