@@ -1,15 +1,15 @@
 [
   {
-    "Author": "NightmareXIV",
-    "Name": "TextAdvance",
-    "InternalName": "TextAdvance",
-    "Punchline": "速通任务的辅助工具，自动跳过对话框以及确认跳过过场动画。\n您需要安装 Splatoon 插件以使用全部功能。(在线安装 Only)",
-    "AssemblyVersion": "3.2.1.1",
-    "Description": "",
+    "Author": "Jukka",
+    "Name": "NecroLens",
+    "InternalName": "NecroLens",
+    "Punchline": "一位真正的死灵术士总是对深层迷宫了如指掌... 而有的人却在使用高科技！\n(在线安装 Only)",
+    "AssemblyVersion": "1.0.7.3",
+    "Description": "深层迷宫小帮手，提供怪物雷达、引战范围、视觉范围等功能。\n同步上游，修正部分怪物信息。",
     "ApplicableVersion": "any",
     "DalamudApiLevel": 9,
-    "IconUrl": "https://s3.puni.sh/media/plugin/26/icon-v1pvonkr6r.png",
-    "DownloadLinkInstall": "https://github.com/KadoMaws/test3/releases/download/1/Release.zip",
-    "DownloadLinkUpdate": "https://github.com/KadoMaws/test3/releases/download/1/Release.zip",
+    "IconUrl": "https://github.com/Jukkales/NecroLens/raw/main/icon.png",
+    "DownloadLinkInstall": "https://github.com/KadoMaws/test3/releases/download/1/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/KadoMaws/test3/releases/download/1/latest.zip",
   }
  ]
