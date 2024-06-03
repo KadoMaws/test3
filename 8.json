@@ -1,15 +1,15 @@
 [
   {
-    "Author": "Una",
-    "Name": "Umbra XIV",
-    "InternalName": "UmbraX",
-    "Punchline": "Ain't you a pretty little thing?",
-    "AssemblyVersion": "1.0.6.17",
-    "Description": "为游戏增加了生活质量改进功能，并将常用的用户界面元素和操作整合到一个统一的界面中\n适配中国服务器优雷卡幸福兔文本，注释了DTR、切换在线状态功能\n\nTranslated by DeepL/Chatgpt 渣渣机翻\n仅测试用，个人能力有限，期待大佬接手",
+    "Author": "NightmareXIV",
+    "Name": "HuntTrainAssistant",
+    "InternalName": "HuntTrainAssistant",
+    "Punchline": "[beta] 狩猎车辅助工具",
+    "AssemblyVersion": "1.0.0.5",
+    "Description": "为狩猎车提供实用工具，例如：高亮显示车头聊天信息并屏蔽所有其他玩家的聊天，自动打开车头发送的<flag>坐标链接以及自动传送到车头发送的坐标目的地。",
     "ApplicableVersion": "any",
     "DalamudApiLevel": 9,
-    "IconUrl": "https://raw.githubusercontent.com/goatcorp/DalamudPluginsD17/main/testing/live/Umbra/images/icon.png",
-    "DownloadLinkInstall": "https://github.com/KadoMaws/test3/releases/download/1/latest.zip",
-    "DownloadLinkUpdate": "https://github.com/KadoMaws/test3/releases/download/1/latest.zip",
-  }
+    "IconUrl": "https://raw.githubusercontent.com/NightmareXIV/HuntTrainAssistant/master/HuntTrainAssistant/images/icon.png",
+    "DownloadLinkInstall": "https://github.com/RedAsteroid/HuntTrainAssistant/releases/download/6/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/RedAsteroid/HuntTrainAssistant/releases/download/6/latest.zip",
+  },
  ]
